@@ -1,0 +1,1 @@
+Project a curve through vessel creating a vertical bulkhead

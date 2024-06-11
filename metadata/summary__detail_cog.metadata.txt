@@ -1,0 +1,7 @@
+Summary & Detail CoG,1
+True
+PhilSouthwell
+C:
+Summary & Detail CoG
+N:
+cog_on_mirror_pl,CoG on Mirror Pl,1

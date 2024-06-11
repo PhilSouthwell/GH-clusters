@@ -1,0 +1,5 @@
+Solar Array,1
+True
+PhilSouthwell
+C:
+Solar Array

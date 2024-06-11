@@ -1,0 +1,1 @@
+Sherical array of solar panels

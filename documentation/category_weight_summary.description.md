@@ -1,0 +1,1 @@
+Category Summarise the weights into a category. Outputs items with weights and text summery. Outputs total weight and centre of gravity.

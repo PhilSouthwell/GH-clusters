@@ -1,0 +1,8 @@
+Frame,1
+True
+PhilSouthwell
+C:
+Frame
+P:
+Pufferfish,3.0.0.0
+ClipperComponents,0.3.3.0

@@ -1,0 +1,1 @@
+Creates a closed hull surface from Lofting Curves. May be truncated with a transom surface.

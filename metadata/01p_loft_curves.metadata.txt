@@ -1,0 +1,12 @@
+01p Loft curves,1
+True
+PhilSouthwell
+C:
+Planing Hull Crvs
+N:
+near_cl,Near CL,1
+split_larger,Split larger,1
+stbd_srf,Stbd Srf,1
+cluster,Cluster,1
+cluster,Cluster,1
+cluster,Cluster,1

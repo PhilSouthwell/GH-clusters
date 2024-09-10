@@ -1,0 +1,13 @@
+Multihull fairing,1
+True
+PhilSouthwell
+C:
+Multihull fairing
+N:
+stem_srf,Stem Srf,1
+cluster,Cluster,1
+near_cl,Near CL,1
+split_larger,Split larger,1
+stem-deck_crv,Stem-deck Crv,1
+P:
+Pufferfish,3.0.0.0

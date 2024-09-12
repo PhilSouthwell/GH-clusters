@@ -1,0 +1,11 @@
+Multihull Bridgedeck,1
+True
+PhilSouthwell
+C:
+Bridgedeck
+N:
+near_cl,Near CL,1
+split_larger,Split larger,1
+cluster,Cluster,1
+P:
+Sasquatch,1.0.0.0

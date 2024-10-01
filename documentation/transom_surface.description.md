@@ -1,0 +1,1 @@
+Creates a surface with which to truncate the vessel stern

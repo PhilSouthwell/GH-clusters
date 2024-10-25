@@ -1,0 +1,9 @@
+Stem Srf corrected,1
+True
+PhilSouthwell
+C:
+Stem Srf
+N:
+cluster,Cluster,1
+O:
+chine_hull_correct_stem,Chine Hull Correct stem,1

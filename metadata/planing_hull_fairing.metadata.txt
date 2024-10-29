@@ -1,0 +1,16 @@
+Planing Hull fairing,1
+True
+PhilSouthwell
+C:
+Planing Hull Crvs
+N:
+cambered_deck_srf,Cambered Deck Srf,2
+cluster,Cluster,1
+near_cl,Near CL,1
+split_larger,Split larger,1
+stbd_srf,Stbd Srf,1
+cluster,Cluster,1
+cluster,Cluster,1
+cluster,Cluster,1
+L:
+01p_loft_curves_temp,01p Loft curves temp,1

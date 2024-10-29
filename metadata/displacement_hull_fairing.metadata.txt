@@ -1,0 +1,17 @@
+Displacement Hull Fairing,1
+True
+PhilSouthwell
+C:
+Displacement Hull Fairing
+N:
+stem-deck_crv,Stem-deck Crv,1
+deck_camber_from_mid-point,Deck Camber from mid-point,1
+cambered_deck_srf,Cambered Deck Srf,1
+cluster,Cluster,1
+stem_srf,Stem Srf,2
+cluster,Cluster,1
+cluster,Cluster,1
+cluster,Cluster,1
+stbd_srf,Stbd Srf,1
+near_cl,Near CL,1
+split_larger,Split larger,1

@@ -1,0 +1,7 @@
+Centre points for weight categories,1
+True,False
+PhilSouthwell
+C:
+Centre points for weights
+P:
+Grasshopper,8.13.24317.13001

@@ -1,0 +1,1 @@
+Bake Centre points for weight categories to model for repositioning -  to calculate Centre of Gravity.

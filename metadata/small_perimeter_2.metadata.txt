@@ -1,0 +1,7 @@
+Small Perimeter 2,1
+True,False
+PhilSouthwell
+C:
+Small Perimeter
+P:
+Grasshopper,8.13.24317.13001

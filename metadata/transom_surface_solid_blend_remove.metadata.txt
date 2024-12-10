@@ -1,0 +1,11 @@
+Transom surface solid blend remove,1
+True,False
+PhilSouthwell
+C:
+Transom Srf
+L:
+transom_surface,Transom surface,1
+O:
+transom_surface,Transom surface,1
+P:
+Grasshopper,8.13.24317.13001

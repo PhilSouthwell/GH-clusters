@@ -1,5 +1,7 @@
-Deck Camber from mid-point,1
-True
+Deck Camber from mid-point,2
+True,False
 PhilSouthwell
 C:
 Deck Camber from mid-point
+P:
+Grasshopper,8.13.24317.13001

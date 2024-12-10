@@ -1,0 +1,8 @@
+Planing Hull fairing w merge V,1
+True,False
+PhilSouthwell
+C:
+Planing Hull Crvs
+P:
+Grasshopper,8.13.24317.13001
+RhinoCodePluginGH,8.13.24317.13001
